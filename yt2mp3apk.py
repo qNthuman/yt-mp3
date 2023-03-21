@@ -79,4 +79,4 @@ def main(ft:flet.page):
 
 
 
-flet.app(target=main)
+flet.app(target=main,view=WEB_RENDER)
